@@ -1,1 +1,2 @@
 # customer_banking
+I encountered issues running the M_3_starter_code folder on VS Code and couldn't identify the problem. As a workaround, I ran each file individually and pushed them to GitHub one by one
